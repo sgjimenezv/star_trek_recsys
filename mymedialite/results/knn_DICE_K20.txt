@@ -1,0 +1,90 @@
+training data: 653 users, 443 items, 2783 ratings, sparsity 99.03795
+test data:     331 users, 404 items, 1192 ratings, sparsity 99.10861
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.904937 MAE 1.39459 CBD 0.2529997 new users: RMSE 2.60618 MAE 2.15966 CBD 0.23842 new items: RMSE 1.26531 MAE 0.95418 CBD 0.22086  new users and items: RMSE 1.39667 MAE 1.39667 CBD 0.18339 testing_time 00:00:01.0406310
+training data: 663 users, 437 items, 2783 ratings, sparsity 99.03945
+test data:     326 users, 391 items, 1192 ratings, sparsity 99.06485
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 2.011112 MAE 1.483238 CBD 0.2538765 new users: RMSE 2.90981 MAE 2.45239 CBD 0.25067 new items: RMSE 1.84683 MAE 1.48482 CBD 0.25619  new users and items: RMSE 1.94323 MAE 1.94323 CBD 0.20683 testing_time 00:00:01.0435390
+training data: 646 users, 445 items, 2783 ratings, sparsity 99.0319
+test data:     340 users, 393 items, 1192 ratings, sparsity 99.10792
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.9394 MAE 1.437755 CBD 0.2521524 new users: RMSE 2.59654 MAE 2.18974 CBD 0.24341 new items: RMSE 0.50584 MAE 0.47582 CBD 0.24899 testing_time 00:00:01.0473580
+training data: 647 users, 445 items, 2783 ratings, sparsity 99.0334
+test data:     345 users, 387 items, 1192 ratings, sparsity 99.10722
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.989997 MAE 1.444347 CBD 0.2531456 new users: RMSE 2.65386 MAE 2.22117 CBD 0.24694 new items: RMSE 2.57658 MAE 2.12824 CBD 0.33467 testing_time 00:00:01.0339660
+training data: 618 users, 444 items, 2783 ratings, sparsity 98.98576
+test data:     356 users, 390 items, 1192 ratings, sparsity 99.14146
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.922622 MAE 1.414818 CBD 0.248089 new users: RMSE 2.50489 MAE 2.0829 CBD 0.23918 new items: RMSE 1.59037 MAE 1.16497 CBD 0.25478 testing_time 00:00:01.0652950
+training data: 651 users, 445 items, 2783 ratings, sparsity 99.03933
+test data:     328 users, 401 items, 1192 ratings, sparsity 99.09373
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.913267 MAE 1.406806 CBD 0.2505715 new users: RMSE 2.72674 MAE 2.27389 CBD 0.25328 new items: RMSE 2.63842 MAE 2.1756 CBD 0.33831 testing_time 00:00:01.0369370
+training data: 640 users, 441 items, 2783 ratings, sparsity 99.01396
+test data:     355 users, 394 items, 1192 ratings, sparsity 99.14778
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.97812 MAE 1.474705 CBD 0.252726 new users: RMSE 2.65746 MAE 2.24082 CBD 0.24755 new items: RMSE 1.43083 MAE 1.11468 CBD 0.24065 testing_time 00:00:01.0489630
+training data: 655 users, 445 items, 2783 ratings, sparsity 99.0452
+test data:     330 users, 390 items, 1192 ratings, sparsity 99.07382
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.916272 MAE 1.417325 CBD 0.2530783 new users: RMSE 2.67529 MAE 2.24514 CBD 0.25774 new items: RMSE 0.94546 MAE 0.66502 CBD 0.24092 testing_time 00:00:01.0314280
+training data: 651 users, 445 items, 2783 ratings, sparsity 99.03933
+test data:     338 users, 399 items, 1192 ratings, sparsity 99.11613
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.912424 MAE 1.411266 CBD 0.2541716 new users: RMSE 2.65678 MAE 2.1873 CBD 0.2474 new items: RMSE 1.29621 MAE 1.15952 CBD 0.24348 testing_time 00:00:01.0444510
+training data: 634 users, 445 items, 2783 ratings, sparsity 99.01358
+test data:     347 users, 384 items, 1192 ratings, sparsity 99.10543
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.881396 MAE 1.391408 CBD 0.2494803 new users: RMSE 2.52004 MAE 2.13908 CBD 0.2416 new items: RMSE 1.93477 MAE 1.88931 CBD 0.34597 testing_time 00:00:01.0485990
+training data: 634 users, 446 items, 2783 ratings, sparsity 99.01579
+test data:     362 users, 394 items, 1192 ratings, sparsity 99.16426
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.899624 MAE 1.401156 CBD 0.2528717 new users: RMSE 2.42724 MAE 1.97495 CBD 0.24589 testing_time 00:00:01.0495200
+training data: 650 users, 443 items, 2783 ratings, sparsity 99.03351
+test data:     337 users, 390 items, 1192 ratings, sparsity 99.09305
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.879378 MAE 1.360629 CBD 0.2494033 new users: RMSE 2.62651 MAE 2.18508 CBD 0.2536 new items: RMSE 2.16569 MAE 1.64086 CBD 0.26034 testing_time 00:00:01.0530670
+training data: 617 users, 444 items, 2783 ratings, sparsity 98.98411
+test data:     365 users, 397 items, 1192 ratings, sparsity 99.17739
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.917416 MAE 1.390148 CBD 0.2534243 new users: RMSE 2.5661 MAE 2.10788 CBD 0.2528 new items: RMSE 1.65343 MAE 1.29806 CBD 0.18557 testing_time 00:00:01.6177630
+training data: 631 users, 444 items, 2783 ratings, sparsity 99.00665
+test data:     361 users, 385 items, 1192 ratings, sparsity 99.14235
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.90705 MAE 1.398991 CBD 0.2546112 new users: RMSE 2.57008 MAE 2.11078 CBD 0.24185 new items: RMSE 0.84456 MAE 0.73604 CBD 0.27114 testing_time 00:00:01.0457290
+training data: 647 users, 444 items, 2783 ratings, sparsity 99.03122
+test data:     340 users, 391 items, 1192 ratings, sparsity 99.10335
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.89724 MAE 1.395439 CBD 0.2531396 new users: RMSE 2.57462 MAE 2.09665 CBD 0.25033 new items: RMSE 1.89395 MAE 1.6374 CBD 0.24046  new users and items: RMSE 2.77139 MAE 2.77139 CBD 0.15985 testing_time 00:00:01.0480610
+training data: 633 users, 444 items, 2783 ratings, sparsity 99.00979
+test data:     351 users, 393 items, 1192 ratings, sparsity 99.13587
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.941286 MAE 1.452597 CBD 0.2525197 new users: RMSE 2.48041 MAE 2.08735 CBD 0.2424 new items: RMSE 1.78511 MAE 1.31616 CBD 0.3257 testing_time 00:00:01.0416890
+training data: 635 users, 443 items, 2783 ratings, sparsity 99.01068
+test data:     351 users, 390 items, 1192 ratings, sparsity 99.12923
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.951185 MAE 1.442617 CBD 0.2557535 new users: RMSE 2.59078 MAE 2.1516 CBD 0.24431 new items: RMSE 2.86544 MAE 2.50046 CBD 0.22571  new users and items: RMSE 2.81434 MAE 2.5862 CBD 0.18309 testing_time 00:00:01.0536750
+training data: 621 users, 446 items, 2783 ratings, sparsity 98.99518
+test data:     367 users, 379 items, 1192 ratings, sparsity 99.14302
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.958863 MAE 1.457285 CBD 0.2546547 new users: RMSE 2.53184 MAE 2.07568 CBD 0.24961 testing_time 00:00:01.0563630
+training data: 639 users, 446 items, 2783 ratings, sparsity 99.02349
+test data:     345 users, 389 items, 1192 ratings, sparsity 99.11181
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.993768 MAE 1.467163 CBD 0.2526684 new users: RMSE 2.59158 MAE 2.15931 CBD 0.24328 testing_time 00:00:01.0393900
+training data: 635 users, 444 items, 2783 ratings, sparsity 99.01291
+test data:     343 users, 389 items, 1192 ratings, sparsity 99.10663
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.869013 MAE 1.380108 CBD 0.2532293 new users: RMSE 2.44792 MAE 2.0232 CBD 0.23784 new items: RMSE 0.4189 MAE 0.35085 CBD 0.22926 testing_time 00:00:01.0482420
+training data: 624 users, 445 items, 2783 ratings, sparsity 98.99777
+test data:     352 users, 394 items, 1192 ratings, sparsity 99.14052
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.985406 MAE 1.448491 CBD 0.2526132 new users: RMSE 2.75287 MAE 2.25933 CBD 0.25349 new items: RMSE 0.23438 MAE 0.16631 CBD 0.21459 testing_time 00:00:01.0569040
+training data: 630 users, 445 items, 2783 ratings, sparsity 99.00731
+test data:     357 users, 396 items, 1192 ratings, sparsity 99.15683
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.954747 MAE 1.451412 CBD 0.2517563 new users: RMSE 2.61861 MAE 2.19388 CBD 0.24811 new items: RMSE 0.62111 MAE 0.61909 CBD 0.25072 testing_time 00:00:01.2190320
+training data: 635 users, 444 items, 2783 ratings, sparsity 99.01291
+test data:     347 users, 382 items, 1192 ratings, sparsity 99.10074
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.896549 MAE 1.392944 CBD 0.2537813 new users: RMSE 2.52976 MAE 2.10796 CBD 0.23963 new items: RMSE 2.18099 MAE 1.86461 CBD 0.24652  new users and items: RMSE 2.79748 MAE 2.79748 CBD 0.16167 testing_time 00:00:01.1227070
+training data: 625 users, 446 items, 2783 ratings, sparsity 99.00161
+test data:     363 users, 395 items, 1192 ratings, sparsity 99.16867
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 2.003003 MAE 1.462209 CBD 0.2542703 new users: RMSE 2.75549 MAE 2.29663 CBD 0.24288 testing_time 00:00:01.0577930
+training data: 657 users, 440 items, 2783 ratings, sparsity 99.03729
+test data:     327 users, 400 items, 1192 ratings, sparsity 99.08869
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.956739 MAE 1.448592 CBD 0.2512642 new users: RMSE 2.64649 MAE 2.20365 CBD 0.24169 new items: RMSE 1.73842 MAE 1.32292 CBD 0.21856  new users and items: RMSE 1.58153 MAE 1.58153 CBD 0.26032 testing_time 00:00:01.0472420
+training data: 648 users, 442 items, 2783 ratings, sparsity 99.02834
+test data:     329 users, 386 items, 1192 ratings, sparsity 99.06137
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.872656 MAE 1.39324 CBD 0.2511917 new users: RMSE 2.53973 MAE 2.18344 CBD 0.23995 new items: RMSE 1.15145 MAE 0.94951 CBD 0.26203 testing_time 00:00:01.0509380
+training data: 638 users, 445 items, 2783 ratings, sparsity 99.01976
+test data:     347 users, 395 items, 1192 ratings, sparsity 99.13034
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.933409 MAE 1.437157 CBD 0.2494592 new users: RMSE 2.49044 MAE 2.0803 CBD 0.23798 new items: RMSE 1.77835 MAE 1.74445 CBD 0.33372 testing_time 00:00:01.0438370
+training data: 639 users, 443 items, 2783 ratings, sparsity 99.01688
+test data:     346 users, 391 items, 1192 ratings, sparsity 99.1189
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.926811 MAE 1.40398 CBD 0.2515735 new users: RMSE 2.53998 MAE 2.1207 CBD 0.23909 new items: RMSE 1.09993 MAE 0.89905 CBD 0.20761  new users and items: RMSE 1.58339 MAE 1.58339 CBD 0.19084 testing_time 00:00:01.0517370
+training data: 635 users, 444 items, 2783 ratings, sparsity 99.01291
+test data:     362 users, 392 items, 1192 ratings, sparsity 99.16
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.894356 MAE 1.366472 CBD 0.2504385 new users: RMSE 2.60555 MAE 2.12284 CBD 0.25186 new items: RMSE 0.56965 MAE 0.50524 CBD 0.27045 testing_time 00:00:01.0497530
+training data: 657 users, 445 items, 2783 ratings, sparsity 99.04811
+test data:     321 users, 392 items, 1192 ratings, sparsity 99.05271
+ItemKNN k=20 correlation=BinaryCosine weighted_binary=False alpha=0; baseline predictor: reg_u=15 reg_i=10 num_iter=10 RMSE 1.932106 MAE 1.426813 CBD 0.2519702 new users: RMSE 2.67332 MAE 2.26377 CBD 0.24759 new items: RMSE 1.03181 MAE 1.03142 CBD 0.29951 testing_time 00:00:01.0317740
