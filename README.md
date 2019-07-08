@@ -1,4 +1,4 @@
-# star_trek_recsys
+# Star Trek Recsys
 Star Trek Recommender System
 
 This repository contains the necessary files to reproduce the experiments from the paper:
